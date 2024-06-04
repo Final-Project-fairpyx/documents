@@ -7,15 +7,16 @@ optional: sudo rm -r fairpyx.egg-info/ (if exists)
 
 pip install -e .   
 cd tests/Tests\ for\ Optimization-based\ Mechanisms/   
+pip install cvxpy==1.5.0
 pip install pytest   
 python3 -m &lt;file without the py>
-
 optional: sudo rm -r .venv
    
    
 # for Windows:   
 python -m venv .venv   
 pip install -e .   
-cd '.\tests\Tests for Optimization-based Mechanisms\'   
-pip install pytest   
+cd '.\tests\Tests for Optimization-based Mechanisms\'
+pip install cvxpy==1.5.0
+pip install pytest
 python -m &lt;name of test file without the py>   
