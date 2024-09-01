@@ -1,6 +1,13 @@
 # Fair Allocation Algorithms - Documentation Repository
 This repository contains all the documentation related to the Fair Allocation Algorithms project.
 
+## the documents
+* <a href="https://github.com/Final-Project-fairpyx/documents/blob/main/2020_AtefYekta_Course_allocation_ijoc.pdf">the article</a>
+* <a href="https://github.com/Final-Project-fairpyx/documents/blob/main/SUMMERY.md">summary of the article</a>
+* <a href="https://github.com/Final-Project-fairpyx/documents/tree/main/examples_for_tests">manual examples</a>
+* <a href="https://github.com/Final-Project-fairpyx/documents/blob/main/project%20book%20-%20Optimization-based%20Mechanisms%20for%20the%20Course%20Allocation%20Problem.pdf">project book</a>
+* <a href="https://github.com/Final-Project-fairpyx/documents/blob/main/final%20project%20presentation%20-%20Optimization-based%20Mechanisms%20for%20the%20Course%20Allocation%20Problem.pdf">presentation</a>
+
 ## Project steps
 * Summary of the Article
 * Created Manual Examples
